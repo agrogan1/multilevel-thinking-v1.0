@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Multilevel Thinking"
+  title: "Multilevel Thinking v1.0"
   subtitle: "Discovering Diversity, Universals, and Particulars in Cross-Cultural Research"
   author: "Andrew Grogan-Kaylor"
   date: "today"
@@ -12,9 +12,9 @@ book:
   twitter-card: true
   open-graph: true
   favicon: logo.png
-  site-url: https://agrogan1.github.io/multilevel-thinking/
+  site-url: https://agrogan1.github.io/multilevel-thinking-v1.0/
   search: true
-  repo-url: https://github.com/agrogan1/multilevel-thinking
+  repo-url: https://github.com/agrogan1/multilevel-thinking-v1.0
   repo-actions: [issue]
   sharing: [twitter, facebook, linkedin]
   chapters:
@@ -36,7 +36,7 @@ book:
     - reshape.qmd
 
 citation:
-  url: https://agrogan1.github.io/multilevel-thinking/
+  url: https://agrogan1.github.io/multilevel-thinking-v1.0/
   
 bibliography: multilevel-thinking.bib
 
