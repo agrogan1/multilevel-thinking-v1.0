@@ -35,7 +35,7 @@ book:
     - Stata-for-cross-sectional-MLMs.qmd
     - reshape.qmd
   navbar:
-    background: primary
+    background: red
     
 citation:
   url: https://agrogan1.github.io/multilevel-thinking-v1.0/
@@ -51,7 +51,7 @@ prefer-html: true
 format:
   html:
     theme: 
-      light: simplex
+      light: cosmo
       dark: vapor
     css: multilevel-thinking.css
     execute:
